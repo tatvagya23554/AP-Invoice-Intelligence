@@ -1,0 +1,5 @@
+vendor_id,vendor_name,status,country
+V001,Acme Office Supplies,active,IN
+V002,Northstar Technologies,active,IN
+V003,BluePeak Logistics,blocked,IN
+V004,Vertex Consulting,active,IN
